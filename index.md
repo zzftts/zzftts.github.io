@@ -564,7 +564,7 @@
 
 
 
-<h2>Voice converesion</h2>
+<h2>Voice conversion</h2>
 <div align="center">
 <h3> speaker1:
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample1/8842_302203_000004_000003.wav" controls="controls"></audio>  <br>
