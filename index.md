@@ -16,10 +16,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/ground_truth/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/ground_truth/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/ground_truth/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/ground_truth/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/ground_truth/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/ground_truth/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/ground_truth/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/ground_truth/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/ground_truth/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -32,10 +32,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/noisy/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/noisy/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/noisy/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/noisy/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/noisy/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/noisy/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/noisy/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/noisy/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/noisy/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div>
 
@@ -48,10 +48,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/enhanced/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/enhanced/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/enhanced/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/enhanced/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/enhanced/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/enhanced/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/enhanced/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/enhanced/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/enhanced/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div>
 
@@ -65,10 +65,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/Fastspeech_v2/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/Fastspeech_v2/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/Fastspeech_v2/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/Fastspeech_v2/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/Fastspeech_v2/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/Fastspeech_v2/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/Fastspeech_v2/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/Fastspeech_v2/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/Fastspeech_v2/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -86,10 +86,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/FastSpeech2_v2_enh/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/FastSpeech2_v2_enh/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/FastSpeech2_v2_enh/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/FastSpeech2_v2_enh/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/FastSpeech2_v2_enh/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/FastSpeech2_v2_enh/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/FastSpeech2_v2_enh/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/FastSpeech2_v2_enh/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/FastSpeech2_v2_enh/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -103,10 +103,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer1/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer1/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer1/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer1/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer1/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer1/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer1/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer1/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer1/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -120,10 +120,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer3/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer3/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer3/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer3/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer3/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer3/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer3/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer3/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer3/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -136,10 +136,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer5/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer5/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer5/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer5/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer5/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer5/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer5/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer5/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer5/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -152,10 +152,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer7/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer7/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer7/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer7/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer7/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer7/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer7/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer7/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer7/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -169,10 +169,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer9/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer9/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer9/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer9/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer9/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer9/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer9/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer9/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer9/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -187,10 +187,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer12/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer12/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer12/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer12/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer12/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer12/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer12/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer12/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer12/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -203,10 +203,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer_weightsum/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer_weightsum/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer_weightsum/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer_weightsum/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer_weightsum/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer_weightsum/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer_weightsum/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer_weightsum/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wavlm_layer_weightsum/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -220,10 +220,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer1/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer1/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer1/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer1/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer1/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer1/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer1/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer1/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer1/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -237,10 +237,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer3/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer3/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer3/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer3/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer3/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer3/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer3/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer3/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer3/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -253,10 +253,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer5/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer5/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer5/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer5/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer5/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer5/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer5/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer5/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer5/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -269,10 +269,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer7/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer7/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer7/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer7/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer7/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer7/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer7/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer7/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer7/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -286,10 +286,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer9/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer9/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer9/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer9/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer9/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer9/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer9/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer9/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer9/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -304,10 +304,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer12/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer12/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer12/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer12/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer12/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer12/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer12/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer12/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer12/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -320,10 +320,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer_weightsum/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer_weightsum/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer_weightsum/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer_weightsum/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer_weightsum/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer_weightsum/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer_weightsum/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer_weightsum/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/wav2vec2_layer_weightsum/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -337,10 +337,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer1/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer1/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer1/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer1/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer1/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer1/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer1/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer1/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer1/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -354,10 +354,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer3/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer3/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer3/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer3/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer3/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer3/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer3/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer3/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer3/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -370,10 +370,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer5/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer5/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer5/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer5/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer5/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer5/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer5/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer5/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer5/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -386,10 +386,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer7/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer7/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer7/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer7/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer7/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer7/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer7/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer7/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer7/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -403,10 +403,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer9/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer9/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer9/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer9/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer9/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer9/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer9/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer9/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer9/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -421,10 +421,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer12/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer12/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer12/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer12/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer12/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer12/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer12/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer12/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer12/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -437,10 +437,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer_weightsum/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer_weightsum/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer_weightsum/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer_weightsum/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer_weightsum/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer_weightsum/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer_weightsum/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer_weightsum/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/hubert_layer_weightsum/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -455,10 +455,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer1/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer1/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer1/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer1/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer1/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer1/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer1/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer1/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer1/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -472,10 +472,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer3/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer3/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer3/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer3/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer3/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer3/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer3/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer3/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer3/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -488,10 +488,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer5/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer5/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer5/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer5/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer5/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer5/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer5/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer5/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer5/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -504,10 +504,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer7/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer7/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer7/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer7/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer7/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer7/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer7/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer7/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer7/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -521,10 +521,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer9/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer9/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer9/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer9/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer9/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer9/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer9/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer9/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer9/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -539,10 +539,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer12/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer12/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer12/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer12/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer12/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer12/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer12/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer12/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer12/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -555,10 +555,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer_weightsum/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer_weightsum/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer_weightsum/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer_weightsum/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer_weightsum/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer_weightsum/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer_weightsum/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer_weightsum/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer_weightsum/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 
@@ -575,10 +575,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample1/convert/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample1/convert/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample1/convert/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample1/convert/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample1/convert/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample1/convert/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample1/convert/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample1/convert/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample1/convert/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 <br>
@@ -593,10 +593,10 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/convert/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/convert/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/convert/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/convert/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/convert/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/convert/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/convert/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/convert/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/convert/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
 <br>
@@ -610,9 +610,9 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ016-0027.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ019-0057.wav" controls="controls"></audio>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ029-0061.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ033-0170.wav" controls="controls"></audio> 
+    <!-- <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ033-0170.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ035-0157.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ036-0163.wav" controls="controls"></audio> 
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ040-0175.wav" controls="controls"></audio>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
