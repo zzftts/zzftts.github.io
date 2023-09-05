@@ -568,7 +568,7 @@
 <div align="center">
 <h3> speaker1:<br>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample1/8842_302203_000004_000003.wav" controls="controls"></audio>  <br>
-    coverted wav:<br>
+    converted wav:<br>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample1/convert/LJ005-0218.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample1/convert/LJ007-0143.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample1/convert/LJ008-0295.wav" controls="controls"></audio> 
@@ -586,7 +586,7 @@
 <div align="center">
 <h3> speaker2: <br>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/8842_302203_000004_000003.wav" controls="controls"></audio>  <br>
-    coverted wav: <br>
+    converted wav: <br>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/convert/LJ005-0218.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/convert/LJ007-0143.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/convert/LJ008-0295.wav" controls="controls"></audio> 
@@ -603,7 +603,7 @@
 <div align="center">
 <h3> speaker3: <br>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/8842_302203_000004_000003.wav" controls="controls"></audio>  <br>
-    coverted wav: <br>
+    converted wav: <br>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ005-0218.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ007-0143.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ008-0295.wav" controls="controls"></audio> 
