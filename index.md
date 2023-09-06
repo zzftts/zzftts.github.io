@@ -468,7 +468,7 @@
 
 <div align="center">
 <h3> <br> speaker2: <br>
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/8842_302203_000004_000003.wav" controls="controls"></audio>  <br>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/5192_19396_000026_000000.wav" controls="controls"></audio>  <br>
     <br> converted wav: <br>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/convert/LJ005-0218.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample2/convert/LJ007-0143.wav" controls="controls"></audio> 
@@ -485,7 +485,7 @@
 <br>
 <div align="center">
 <h3>  <br>speaker3: <br>
-    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/8842_302203_000004_000003.wav" controls="controls"></audio>  <br>
+    <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/8630_305213_000011_000000.wav" controls="controls"></audio>  <br>
     <br> converted wav: <br>
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ005-0218.wav" controls="controls"></audio> 
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/voice_conversion/sample3/convert/LJ007-0143.wav" controls="controls"></audio> 
