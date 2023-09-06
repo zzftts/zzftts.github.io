@@ -445,7 +445,7 @@
 </div> 
 
 
-
+<!-- 
 <h2>text2representation2wav (data2vec layer1)</h2>
 <div align="center">
 <h3>
@@ -561,7 +561,7 @@
     <audio src="https://github.com/zzftts/zzftts.github.io/raw/main/data2vec_layer_weightsum/LJ040-0175.wav" controls="controls"></audio> -->
 </h3>
 </div> 
-
+ -->
 
 
 <h2>Voice conversion</h2>
